@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"","producer":"Adobe XD","creationdate":"","moddate":"","trapped":"","fileName":"SPRK_default_preset_name_custom___1.pdf","bounds":[[1258,909]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
